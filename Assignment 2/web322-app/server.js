@@ -1,15 +1,3 @@
-/*********************************************************************************
-* WEB322 – Assignment 02
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
-* of this assignment has been copied manually or electronically from any other source
-* (including 3rd party web sites) or distributed to other students.
-*
-* Name: _Damirkhon Yodgorov_ Student ID: 108364175 Date: October 1, 2018
-*
-* Online (Heroku) Link: https://fierce-harbor-57006.herokuapp.com
-*
-********************************************************************************/ 
-
 var express=require('express');
 var data_service=require('./data-service');
 var app=express();
