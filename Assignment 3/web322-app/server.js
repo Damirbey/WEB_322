@@ -1,15 +1,3 @@
-/*********************************************************************************
-* WEB322 – Assignment 03
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
-* of this assignment has been copied manually or electronically from any other source
-* (including 3rd party web sites) or distributed to other students.
-*
-* Name: _Damirkhon Yodgorov_ Student ID: _108364175_ Date: 11.10.2018
-*
-* Online (Heroku) Link: https://afternoon-oasis-89292.herokuapp.com/
-*
-********************************************************************************/ 
-
 var express=require('express');
 var data_service=require('./data-service');
 var app=express();
