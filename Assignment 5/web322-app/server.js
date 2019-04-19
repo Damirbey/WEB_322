@@ -1,15 +1,3 @@
-/*********************************************************************************
-* WEB322 – Assignment 05
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
-* assignment has been copied manually or electronically from any other source (including web sites) or
-* distributed to other students.
-*
-* Name: _Damirkhon Yodgorov_ Student ID:_108364175_  Date: 13.11.2018
-*
-* Online (Heroku) Link: https://agile-springs-55676.herokuapp.com/
-*
-********************************************************************************/ 
-
 var express=require('express');
 var data_service=require('./data-service');
 var app=express();
